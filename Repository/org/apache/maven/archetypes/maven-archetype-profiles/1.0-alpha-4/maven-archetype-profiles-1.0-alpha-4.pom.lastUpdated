@@ -1,4 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed May 30 18:19:01 IST 2018
-@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1527684541297
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.archetypes\:maven-archetype-profiles\:pom\:1.0-alpha-4 from/to central (https\://repo.maven.apache.org/maven2)\: Connection refused\: connect
