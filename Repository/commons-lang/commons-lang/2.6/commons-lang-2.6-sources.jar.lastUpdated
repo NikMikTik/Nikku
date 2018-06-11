@@ -1,4 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu May 31 14:40:03 IST 2018
-@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1527757803120
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:sources\:2.6 from/to central (https\://repo.maven.apache.org/maven2)\: Connection refused\: connect
